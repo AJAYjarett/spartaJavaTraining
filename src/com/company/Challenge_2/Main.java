@@ -32,7 +32,7 @@ public class Main {
         }
         Arrays.sort(lengths);
         String[] sortedWords = sorting(sortingString,lengths);
-        System.out.println(sortedWords);
+        System.out.println(Arrays.toString(sortedWords));
     }
 
 }
