@@ -1,4 +1,4 @@
-package com.company.Challenge_1;
+package com.company.Challenges.Challenge_1;
 
 public class Main {
 

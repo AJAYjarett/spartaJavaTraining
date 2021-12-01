@@ -1,4 +1,4 @@
-package com.company.Challenge_2;
+package com.company.Challenges.Challenge_2;
 
 import java.util.Arrays;
 import java.util.Scanner;
